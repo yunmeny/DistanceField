@@ -115,11 +115,11 @@ Material:
     - _Outline: 0
     - _Parallax: 0.005
     - _PostionWeight: 1
-    - _Progress: 0.965
+    - _Progress: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _RotationCompensation: -0.032932047
+    - _RotationCompensation: -0.024275245
     - _RotationWeight: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
@@ -133,9 +133,9 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _CurCenter: {r: 0.65698504, g: 0.44154346, b: 0, a: 0}
+    - _CurCenter: {r: 0.6633292, g: 0.44478405, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MovementCompensation: {r: -0.015476286, g: -0.017522186, b: 0, a: 0}
+    - _MovementCompensation: {r: -0.026455045, g: -0.01747036, b: 0, a: 0}
     - _Position: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []

@@ -548,14 +548,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 879a7d4b0854f43b996e8c3ac5190044, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  progress: 0.965
+  progress: 0
   autoProgress: 0
   progressSpeed: 0.5
   centroidThreshold: 0
-  movementCompensation: {x: 0.030801207, y: -0.00962615}
-  rotationCompensation: 0.0014988306
-  curCentroid: {x: 0.49102154, y: 0.42375082}
-  targetCentroid: {x: 0.52182275, y: 0.41412467}
+  movementCompensation: {x: 0.032364488, y: -0.009359807}
+  rotationCompensation: -0.010197265
+  curCentroid: {x: 0.49253452, y: 0.42603338}
+  targetCentroid: {x: 0.524899, y: 0.41667357}
   gizmoSize: 0.05
   drawCompensationLine: 1
   drawInterpolatedPoint: 1
@@ -661,14 +661,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 879a7d4b0854f43b996e8c3ac5190044, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  progress: 0.965
+  progress: 0
   autoProgress: 0
   progressSpeed: 0.5
   centroidThreshold: 0
-  movementCompensation: {x: 0.032795668, y: -0.028611511}
-  rotationCompensation: -0.08095652
-  curCentroid: {x: 0.6979492, y: 0.3402372}
-  targetCentroid: {x: 0.73074484, y: 0.3116257}
+  movementCompensation: {x: 0.031888843, y: -0.030807704}
+  rotationCompensation: -0.07631279
+  curCentroid: {x: 0.6997352, y: 0.33483636}
+  targetCentroid: {x: 0.73162407, y: 0.30402866}
   gizmoSize: 0.05
   drawCompensationLine: 1
   drawInterpolatedPoint: 1
@@ -774,14 +774,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 879a7d4b0854f43b996e8c3ac5190044, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  progress: 0.965
+  progress: 0
   autoProgress: 0
   progressSpeed: 0.5
   centroidThreshold: 0
-  movementCompensation: {x: -0.025728017, y: -0.09306857}
-  rotationCompensation: 0.061804533
-  curCentroid: {x: 0.32692838, y: 0.5006236}
-  targetCentroid: {x: 0.30120036, y: 0.407555}
+  movementCompensation: {x: -0.02691558, y: -0.10331926}
+  rotationCompensation: 0.053943157
+  curCentroid: {x: 0.33204862, y: 0.5044677}
+  targetCentroid: {x: 0.30513304, y: 0.40114847}
   gizmoSize: 0.05
   drawCompensationLine: 1
   drawInterpolatedPoint: 1
@@ -1226,14 +1226,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 879a7d4b0854f43b996e8c3ac5190044, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  progress: 0.965
+  progress: 0
   autoProgress: 0
   progressSpeed: 0.5
   centroidThreshold: 0
-  movementCompensation: {x: 0.037694454, y: -0.019688666}
-  rotationCompensation: -0.16892734
-  curCentroid: {x: 0.72841203, y: 0.5875932}
-  targetCentroid: {x: 0.7661065, y: 0.56790453}
+  movementCompensation: {x: 0.029079556, y: -0.015102327}
+  rotationCompensation: -0.20429896
+  curCentroid: {x: 0.7322474, y: 0.589266}
+  targetCentroid: {x: 0.76132697, y: 0.5741637}
   gizmoSize: 0.05
   drawCompensationLine: 1
   drawInterpolatedPoint: 1
@@ -1339,14 +1339,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 879a7d4b0854f43b996e8c3ac5190044, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  progress: 0.965
+  progress: 0
   autoProgress: 0
   progressSpeed: 0.5
   centroidThreshold: 0
-  movementCompensation: {x: 0.039989054, y: -0.01444152}
-  rotationCompensation: 0.9862489
-  curCentroid: {x: 0.60617757, y: 0.37566364}
-  targetCentroid: {x: 0.6461666, y: 0.36122212}
+  movementCompensation: {x: 0.03967637, y: -0.01482895}
+  rotationCompensation: 1.1391121
+  curCentroid: {x: 0.60835695, y: 0.37984416}
+  targetCentroid: {x: 0.6480333, y: 0.3650152}
   gizmoSize: 0.05
   drawCompensationLine: 1
   drawInterpolatedPoint: 1
@@ -1678,14 +1678,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 879a7d4b0854f43b996e8c3ac5190044, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  progress: 0.965
+  progress: 0
   autoProgress: 0
   progressSpeed: 0.5
   centroidThreshold: 0
-  movementCompensation: {x: 0.027342916, y: -0.008851171}
-  rotationCompensation: 0.020949326
-  curCentroid: {x: 0.6294641, y: 0.29640985}
-  targetCentroid: {x: 0.656807, y: 0.28755867}
+  movementCompensation: {x: 0.015938997, y: -0.0066672266}
+  rotationCompensation: 0.022669049
+  curCentroid: {x: 0.6391042, y: 0.30020657}
+  targetCentroid: {x: 0.6550432, y: 0.29353935}
   gizmoSize: 0.05
   drawCompensationLine: 1
   drawInterpolatedPoint: 1
@@ -2007,14 +2007,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 879a7d4b0854f43b996e8c3ac5190044, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  progress: 0.965
+  progress: 0
   autoProgress: 0
   progressSpeed: 0.5
   centroidThreshold: 0
-  movementCompensation: {x: 0.004930377, y: 0.027237654}
-  rotationCompensation: 0.20379135
-  curCentroid: {x: 0.3044347, y: 0.5970153}
-  targetCentroid: {x: 0.30936506, y: 0.624253}
+  movementCompensation: {x: 0.006387979, y: 0.03019464}
+  rotationCompensation: 0.20740536
+  curCentroid: {x: 0.3114238, y: 0.60042185}
+  targetCentroid: {x: 0.3178118, y: 0.6306165}
   gizmoSize: 0.05
   drawCompensationLine: 1
   drawInterpolatedPoint: 1
@@ -2720,14 +2720,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 879a7d4b0854f43b996e8c3ac5190044, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  progress: 0.965
+  progress: 0
   autoProgress: 0
   progressSpeed: 0.5
   centroidThreshold: 0
-  movementCompensation: {x: -0.015476286, y: -0.017522186}
-  rotationCompensation: -0.032932047
-  curCentroid: {x: 0.65698504, y: 0.44154346}
-  targetCentroid: {x: 0.64150876, y: 0.42402127}
+  movementCompensation: {x: -0.026455045, y: -0.01747036}
+  rotationCompensation: -0.024275245
+  curCentroid: {x: 0.6633292, y: 0.44478405}
+  targetCentroid: {x: 0.63687414, y: 0.4273137}
   gizmoSize: 0.05
   drawCompensationLine: 1
   drawInterpolatedPoint: 1
@@ -4509,14 +4509,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 879a7d4b0854f43b996e8c3ac5190044, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  progress: 0.965
+  progress: 0
   autoProgress: 0
   progressSpeed: 0.5
   centroidThreshold: 0
-  movementCompensation: {x: -0.011002064, y: -0.016189814}
-  rotationCompensation: 0.049737267
-  curCentroid: {x: 0.5432648, y: 0.71773523}
-  targetCentroid: {x: 0.53226274, y: 0.7015454}
+  movementCompensation: {x: -0.012272716, y: -0.022861779}
+  rotationCompensation: 0.028688857
+  curCentroid: {x: 0.5496936, y: 0.729876}
+  targetCentroid: {x: 0.53742087, y: 0.7070142}
   gizmoSize: 0.05
   drawCompensationLine: 1
   drawInterpolatedPoint: 1
@@ -4667,14 +4667,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 879a7d4b0854f43b996e8c3ac5190044, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  progress: 0.965
+  progress: 0
   autoProgress: 0
   progressSpeed: 0.5
   centroidThreshold: 0
-  movementCompensation: {x: 0.035119653, y: -0.023230463}
-  rotationCompensation: 1.0801497
-  curCentroid: {x: 0.6160358, y: 0.513384}
-  targetCentroid: {x: 0.6511555, y: 0.49015352}
+  movementCompensation: {x: 0.0343194, y: -0.024698049}
+  rotationCompensation: 1.0392838
+  curCentroid: {x: 0.6206077, y: 0.5175251}
+  targetCentroid: {x: 0.6549271, y: 0.49282703}
   gizmoSize: 0.05
   drawCompensationLine: 1
   drawInterpolatedPoint: 1
@@ -4780,14 +4780,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 879a7d4b0854f43b996e8c3ac5190044, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  progress: 0.965
+  progress: 0
   autoProgress: 0
   progressSpeed: 0.5
   centroidThreshold: 0
-  movementCompensation: {x: 0.031497777, y: -0.0024837852}
-  rotationCompensation: 0.204689
-  curCentroid: {x: 0.6660196, y: 0.6947578}
-  targetCentroid: {x: 0.6975174, y: 0.69227403}
+  movementCompensation: {x: 0.02813363, y: -0.0013875365}
+  rotationCompensation: 0.19111463
+  curCentroid: {x: 0.66912335, y: 0.6964935}
+  targetCentroid: {x: 0.697257, y: 0.69510597}
   gizmoSize: 0.05
   drawCompensationLine: 1
   drawInterpolatedPoint: 1
@@ -5222,14 +5222,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 879a7d4b0854f43b996e8c3ac5190044, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  progress: 0.965
+  progress: 0
   autoProgress: 0
   progressSpeed: 0.5
   centroidThreshold: 0
-  movementCompensation: {x: 0.058833838, y: -0.007277012}
-  rotationCompensation: -0.24263681
-  curCentroid: {x: 0.6197087, y: 0.5801639}
-  targetCentroid: {x: 0.67854255, y: 0.5728869}
+  movementCompensation: {x: 0.058452845, y: -0.008663356}
+  rotationCompensation: -0.10949672
+  curCentroid: {x: 0.62555057, y: 0.58423704}
+  targetCentroid: {x: 0.6840034, y: 0.5755737}
   gizmoSize: 0.05
   drawCompensationLine: 1
   drawInterpolatedPoint: 1
@@ -5849,14 +5849,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 879a7d4b0854f43b996e8c3ac5190044, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  progress: 0.965
+  progress: 0
   autoProgress: 0
   progressSpeed: 0.5
   centroidThreshold: 0
-  movementCompensation: {x: -0.039071634, y: -0.03309363}
-  rotationCompensation: -0.15133381
-  curCentroid: {x: 0.25839666, y: 0.4600297}
-  targetCentroid: {x: 0.21932502, y: 0.42693606}
+  movementCompensation: {x: -0.039338633, y: -0.03868434}
+  rotationCompensation: -0.1209441
+  curCentroid: {x: 0.2639324, y: 0.46581408}
+  targetCentroid: {x: 0.22459377, y: 0.42712975}
   gizmoSize: 0.05
   drawCompensationLine: 1
   drawInterpolatedPoint: 1
@@ -6065,14 +6065,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 879a7d4b0854f43b996e8c3ac5190044, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  progress: 0.965
+  progress: 0
   autoProgress: 0
   progressSpeed: 0.5
   centroidThreshold: 0
-  movementCompensation: {x: -0.036849767, y: -0.018934488}
-  rotationCompensation: -0.37482563
-  curCentroid: {x: 0.3958042, y: 0.49316663}
-  targetCentroid: {x: 0.35895443, y: 0.47423214}
+  movementCompensation: {x: -0.04096812, y: -0.022922426}
+  rotationCompensation: -0.16590989
+  curCentroid: {x: 0.40288386, y: 0.49852633}
+  targetCentroid: {x: 0.36191574, y: 0.4756039}
   gizmoSize: 0.05
   drawCompensationLine: 1
   drawInterpolatedPoint: 1
