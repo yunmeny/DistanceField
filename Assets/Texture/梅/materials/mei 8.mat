@@ -115,7 +115,7 @@ Material:
     - _Outline: 0
     - _Parallax: 0.005
     - _PostionWeight: 1
-    - _Progress: 1
+    - _Progress: 0.965
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
